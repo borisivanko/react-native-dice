@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "DiceExpo",
-    "slug": "DiceExpo",
+    "name": "Dice",
+    "slug": "Dice",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
