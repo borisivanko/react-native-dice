@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#FF1E56"
-      }
+      },
+      "package": "com.borisivanko.dice"
     },
     "web": {
       "favicon": "./assets/icon.png"
